@@ -26,3 +26,15 @@ A "The Legend of Zelda: Twilight Princess" mod that modifies the mechanics of se
 | Twilight Princess                            | A Link Between Worlds                            |
 | ----------------------------------- | ----------------------------------- |
 | ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/LanternTP.gif) | ![image](https://media.discordapp.net/attachments/720582472433270877/1136287693987389481/git4.png?width=1450&height=1024) |
+### Bow
+| Twilight Princess                            | A Link Between Worlds                            |
+| ----------------------------------- | ----------------------------------- |
+| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/LanternTP.gif) | ![image](https://media.discordapp.net/attachments/720582472433270877/1136287693987389481/git4.png?width=1450&height=1024) |
+### Bombs
+| Twilight Princess                            | A Link Between Worlds                            |
+| ----------------------------------- | ----------------------------------- |
+| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/LanternTP.gif) | ![image](https://media.discordapp.net/attachments/720582472433270877/1136287693987389481/git4.png?width=1450&height=1024) |
+### More!
+| Slingshot                            | Armor                            |
+| ----------------------------------- | ----------------------------------- |
+| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/Slingshot.gif) | ![image](https://media.discordapp.net/attachments/720582472433270877/1136287693987389481/git4.png?width=1450&height=1024) |
