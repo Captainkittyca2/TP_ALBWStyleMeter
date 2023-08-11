@@ -20,3 +20,9 @@ A "The Legend of Zelda: Twilight Princess" mod that modifies the mechanics of se
    * Kokiri/Zora->Armor: press Dpad-down twice.
    * Zora->Kokiri: press Dpad-down once.
    * Armor->Kokiri: press Dpad-down twice.
+
+## Clips:
+### Lantern
+| Twilight Princess                            | A Link Between Worlds                            |
+| ----------------------------------- | ----------------------------------- |
+| ![image](https://media.discordapp.net/attachments/720582472433270877/1139654529546195014/ezgif-3-826c408991.gif) | ![image](https://media.discordapp.net/attachments/720582472433270877/1136287693987389481/git4.png?width=1450&height=1024) |
