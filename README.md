@@ -51,4 +51,4 @@ A "The Legend of Zelda: Twilight Princess" mod that modifies the mechanics of se
 ### Clothes Quick-toggle
 | Kokiri->Zora                            | Kokiri->Armor                            |
 | ----------------------------------- | ----------------------------------- |
-| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/KokiritoZora.gif) | ![image](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/KokiriToArmor.gif) |
+| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/KokiriToZora.gif) | ![image](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/KokiriToArmor.gif) |
