@@ -25,4 +25,4 @@ A "The Legend of Zelda: Twilight Princess" mod that modifies the mechanics of se
 ### Lantern
 | Twilight Princess                            | A Link Between Worlds                            |
 | ----------------------------------- | ----------------------------------- |
-| ![](https://media.discordapp.net/attachments/720582472433270877/1139654529546195014/ezgif-3-826c408991.gif) | ![image](https://media.discordapp.net/attachments/720582472433270877/1136287693987389481/git4.png?width=1450&height=1024) |
+| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/LanternTP.gif) | ![image](https://media.discordapp.net/attachments/720582472433270877/1136287693987389481/git4.png?width=1450&height=1024) |
