@@ -25,7 +25,7 @@ A "The Legend of Zelda: Twilight Princess" mod that modifies the mechanics of se
 
 * Need to acquire Lantern for meter to work for the mod. Because of this, I added a chest on Ordon Spring that has the lantern in it. Make sure to go and get it after starting the game.
 * Glitch when using clawshot (on ceilings, not sure about walls) that makes Link respawn at last spawn point.
-* Disable - all - cheat codes (like hyrule field speed hack) since can interfere with modified code and crash the game.
+* Disable all cheat codes (like hyrule field speed hack) since can interfere with modified code and crash the game.
 
 ## Clips:
 ### Lantern
