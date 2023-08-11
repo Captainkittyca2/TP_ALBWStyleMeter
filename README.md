@@ -21,20 +21,31 @@ A "The Legend of Zelda: Twilight Princess" mod that modifies the mechanics of se
    * Zora->Kokiri: press Dpad-down once.
    * Armor->Kokiri: press Dpad-down twice.
 
+## Known Major Issues:
+
+* Need to acquire Lantern for meter to work for the mod. Because of this, I added a chest on Ordon Spring that has the lantern in it. Make sure to go and get it after starting the game.
+* Glitch when using clawshot (on ceilings, not sure about walls) that makes Link respawn at last spawn point.
+
 ## Clips:
 ### Lantern
 | Twilight Princess                            | A Link Between Worlds                            |
 | ----------------------------------- | ----------------------------------- |
-| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/LanternTP.gif) | ![image](https://media.discordapp.net/attachments/720582472433270877/1136287693987389481/git4.png?width=1450&height=1024) |
+| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/LanternTP.gif) | ![image](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/LampALBW.gif) |
 ### Bow
 | Twilight Princess                            | A Link Between Worlds                            |
 | ----------------------------------- | ----------------------------------- |
-| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/BowTP.gif) | ![image](https://media.discordapp.net/attachments/720582472433270877/1136287693987389481/git4.png?width=1450&height=1024) |
+| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/BowTP.gif) | ![image](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/BowALBW.gif) |
 ### Bombs
 | Twilight Princess                            | A Link Between Worlds                            |
 | ----------------------------------- | ----------------------------------- |
-| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/LanternTP.gif) | ![image](https://media.discordapp.net/attachments/720582472433270877/1136287693987389481/git4.png?width=1450&height=1024) |
-### More!
+| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/BombsTP.gif) | ![image](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/BombsALBW.gif) |
+### More
 | Slingshot                            | Armor                            |
 | ----------------------------------- | ----------------------------------- |
-| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/Slingshot.gif) | ![image](https://media.discordapp.net/attachments/720582472433270877/1136287693987389481/git4.png?width=1450&height=1024) |
+| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/Slingshot.gif) | ![image](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/Armor.gif) |
+| Spinner                            | Dominion Rod                            |
+| ----------------------------------- | ----------------------------------- |
+| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/Spinner.gif) | ![image](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/DominionRod.gif) |
+
+### Clothes Quick-toggle
+![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/Swap3.gif)
