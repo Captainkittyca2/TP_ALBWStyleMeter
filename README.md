@@ -29,8 +29,7 @@ A "The Legend of Zelda: Twilight Princess" mod that modifies the mechanics of se
 
 ## Clips:
 ### Lantern
-| Twilight Princess
-| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/LanternTP.gif)
+![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/LanternTP.gif)
 ### Bow
 | Twilight Princess                            | A Link Between Worlds                            |
 | ----------------------------------- | ----------------------------------- |
@@ -44,7 +43,7 @@ A "The Legend of Zelda: Twilight Princess" mod that modifies the mechanics of se
 | ----------------------------------- | ----------------------------------- |
 | ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/Slingshot.gif) | ![image](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/Armor.gif) |
 | Spinner                                 | Dominion Rod                            |
-| ----------------------------------- | ----------------------------------- |
+| ----------------------------b------ | --------------------------a-------- |
 | ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/Spinner.gif) | ![image](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/DominionRod.gif) |
 
 ### Clothes Quick-toggle
