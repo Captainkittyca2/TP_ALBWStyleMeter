@@ -29,9 +29,8 @@ A "The Legend of Zelda: Twilight Princess" mod that modifies the mechanics of se
 
 ## Clips:
 ### Lantern
-| Twilight Princess                            | A Link Between Worlds                            |
-| ----------------------------------- | ----------------------------------- |
-| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/LanternTP.gif) | ![image](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/LampALBW.gif) |
+| Twilight Princess
+| ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/LanternTP.gif)
 ### Bow
 | Twilight Princess                            | A Link Between Worlds                            |
 | ----------------------------------- | ----------------------------------- |
