@@ -44,7 +44,7 @@ A "The Legend of Zelda: Twilight Princess" mod that modifies the mechanics of se
 | Slingshot                            | Armor                            |
 | ----------------------------------- | ----------------------------------- |
 | ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/Slingshot.gif) | ![image](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/Armor.gif) |
-| Spinner                            | Dominion Rod                            |
+| Spinner                                 | Dominion Rod                            |
 | ----------------------------------- | ----------------------------------- |
 | ![](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/Spinner.gif) | ![image](https://github.com/Captainkittyca2/TP_ALBWStyleMeter/blob/main/GIFs/DominionRod.gif) |
 
